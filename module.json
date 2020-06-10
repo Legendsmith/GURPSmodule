@@ -18,7 +18,7 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "http://your.module.url/here",
+  "url": "https://github.com/kalminos/GURPSmodule",
   "manifest": "https://raw.githubusercontent.com/kalminos/GURPSmodule/master/module.json",
   "download": "https://github.com/kalminos/GURPSmodule/raw/master/GURPSmodule.zip",
   "minimumCoreVersion" : "0.4.4"
